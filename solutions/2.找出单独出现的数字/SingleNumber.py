@@ -1,4 +1,4 @@
-# Author : doubleQ
+# Author : Qi Zhang
 # Date   : 2018-11-22
 
 def solution(line):
