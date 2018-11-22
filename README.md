@@ -12,3 +12,7 @@ xiaomiOJ
 |42|[字符串替换](https://code.mi.com/problem/list/view?id=42) | [C++](./solutions/42.字符串替换/StrReplace.cpp)
 |47|[硬币比赛](https://code.mi.com/problem/list/view?id=47) | [C++](./solutions/47.硬币比赛/CoinGame.cpp)
 |59|[漂流瓶](https://code.mi.com/problem/list/view?id=59) | [C++](./solutions/59.漂流瓶/drift.cpp)
+|72|[简单直接全排列](https://code.mi.com/problem/list/view?id=72) | [C++](./solutions/72.简单直接全排列/Permutation.cpp)
+|75|[发奖励](https://code.mi.com/problem/list/view?id=75) | [C++](./solutions/75.发奖励/award.cpp)
+|90|[+1s](https://code.mi.com/problem/list/view?id=90) | [C++](./solutions/90.+1s/main.cpp)
+|91|[不要乱改代码](https://code.mi.com/problem/list/view?id=91) | [C++](./solutions/91.不要乱改代码/main.cpp)
