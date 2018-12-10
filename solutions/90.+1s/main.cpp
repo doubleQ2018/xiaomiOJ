@@ -1,7 +1,4 @@
-// Author : Qi Zhang
-// Date   : 2018-11-22
 
-#include <iostream>
 #include <bits/stdc++.h>
 
 using namespace std;
