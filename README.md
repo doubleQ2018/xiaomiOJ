@@ -1,7 +1,9 @@
 xiaomiOJ
 ========
 
-### Solutions for 小米OJ
+## [小米OJ](https://code.mi.com/site/index)的解题思路分享，用户double，欢迎交流与指正！
+
+### Solutions
 |Number|Title|Solution| 
 |:---:|:-----:|:--------:|
 |1|[A + B](https://code.mi.com/problem/list/view?id=1) | [C++](./solutions/1.A+B/add.cpp)
