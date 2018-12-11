@@ -1,7 +1,7 @@
 xiaomiOJ
 ========
 
-## [小米OJ](https://code.mi.com/site/index)的解题思路分享，用户double，欢迎交流与指正！
+## [小米OJ](https://code.mi.com/site/index) 的解题思路分享，用户doubleQ，欢迎交流与指正！
 
 ### Solutions
 |Number|Title|Solution| 
