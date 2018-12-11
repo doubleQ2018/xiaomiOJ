@@ -1,3 +1,6 @@
+# Author : Qi Zhang
+# Date   : 2018-12-11
+
 #coding:utf-8
 import math
 import types

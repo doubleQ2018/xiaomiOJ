@@ -1,3 +1,6 @@
+# Author : Qi Zhang
+# Date   : 2018-12-11
+
 # 此处可 import 模块
 import collections
 """

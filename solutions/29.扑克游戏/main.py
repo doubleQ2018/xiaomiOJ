@@ -1,3 +1,6 @@
+# Author : Qi Zhang
+# Date   : 2018-12-11
+
 def best(num):
     if num[1] == num[0] + 1 and num[2] == num[1] + 1 and num[3] == num[2] + 1 and num[4] == num[3] + 1:
         return (1, num[4])

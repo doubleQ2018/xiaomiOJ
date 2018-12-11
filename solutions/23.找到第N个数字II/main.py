@@ -1,3 +1,6 @@
+# Author : Qi Zhang
+# Date   : 2018-12-11
+
 import math
 def nth(n):
     if n<=9:return n
