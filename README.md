@@ -95,3 +95,4 @@ xiaomiOJ
 |111|[米兔的胡萝卜](https://code.mi.com/problem/list/view?id=111) | [C++](./solutions/111.米兔的胡萝卜/main.cpp)
 |113|[高弗雷勋爵](https://code.mi.com/problem/list/view?id=113) | [C++](./solutions/113.高弗雷勋爵/main.cpp)
 |114|[打羽毛球的小爱同学](https://code.mi.com/problem/list/view?id=114) | [C++](./solutions/114.打羽毛球的小爱同学/main.cpp)
+|123|[小爱运维监控](https://code.mi.com/problem/list/view?id=123) | [C++11]((./solutions/123.小爱运维监控/main.cpp)
