@@ -97,3 +97,5 @@ xiaomiOJ
 |114|[打羽毛球的小爱同学](https://code.mi.com/problem/list/view?id=114) | [C++](./solutions/114.打羽毛球的小爱同学/main.cpp)
 |119|[小米兔跳格子](https://code.mi.com/problem/list/view?id=119) | [Python](./solutions/119.小米兔跳格子/main.py)
 |123|[小爱运维监控](https://code.mi.com/problem/list/view?id=123) | [C++11](./solutions/123.小爱运维监控/main.cpp)
+|125|[灯](https://code.mi.com/problem/list/view?id=125) | [Python](./solutions/125.灯/main.py)
+|127|[殊途同归](https://code.mi.com/problem/list/view?id=127) | [C++11](./solutions/127.殊途同归/main.cpp)
