@@ -99,3 +99,4 @@ xiaomiOJ
 |123|[小爱运维监控](https://code.mi.com/problem/list/view?id=123) | [C++11](./solutions/123.小爱运维监控/main.cpp)
 |125|[灯](https://code.mi.com/problem/list/view?id=125) | [Python](./solutions/125.灯/main.py)
 |127|[殊途同归](https://code.mi.com/problem/list/view?id=127) | [C++11](./solutions/127.殊途同归/main.cpp)
+|138|[Carryon数数字](https://code.mi.com/problem/list/view?id=138) | [C++11](./solutions/138.Carryon数数字/main.cpp)
