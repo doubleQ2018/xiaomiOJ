@@ -102,3 +102,4 @@ xiaomiOJ
 |138|[Carryon数数字](https://code.mi.com/problem/list/view?id=138) | [C++11](./solutions/138.Carryon数数字/main.cpp)
 |141|[小爱密码2.0](https://code.mi.com/problem/list/view?id=141)|[C++11](./solutions/141.小爱密码2.0/main.cpp)
 |142|[数学等式](https://code.mi.com/problem/list/view?id=142)|[C++11](./solutions/142.数学等式/main.cpp)
+|143|[小米兔洗澡澡](https://code.mi.com/problem/list/view?id=143)|[C++11](./solutions/143.小米兔洗澡澡/main.cpp)
