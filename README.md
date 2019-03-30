@@ -104,4 +104,3 @@ xiaomiOJ
 |142|[数学等式](https://code.mi.com/problem/list/view?id=142)|[C++11](./solutions/142.数学等式/main.cpp)
 |143|[小米兔洗澡澡](https://code.mi.com/problem/list/view?id=143)|[C++11](./solutions/143.小米兔洗澡澡/main.cpp)
 |143|[小米兔洗澡澡](https://code.mi.com/problem/list/view?id=143)|[C++11](./solutions/143.小米兔洗澡澡/main.cpp)
-|143|[小米兔洗澡澡](https://code.mi.com/problem/list/view?id=143)|[C++11](./solutions/143.小米兔洗澡澡/main.cpp)
