@@ -12,12 +12,8 @@ int nums[10000005] = {0};
 void init(int n)
 {
     int x = sqrt(n);
-    for (int i = 1; i <= x; i++)
-    {
-        for (int j = i + 1; j * i <= n; j++)
-        {
-            cc[i * j] += 2;
-        }
+    for (int i = 1; i <= x; i++){
+        for (int j = i + 1; j * i <= n; j++) cc[i * j] += 2;
         cc[i * i]++;
     }
 }
