@@ -104,5 +104,4 @@ xiaomiOJ
 |141|[小爱密码2.0](https://code.mi.com/problem/list/view?id=141)|[C++11](./solutions/141.小爱密码2.0/main.cpp)
 |142|[数学等式](https://code.mi.com/problem/list/view?id=142)|[C++11](./solutions/142.数学等式/main.cpp)
 |143|[小米兔洗澡澡](https://code.mi.com/problem/list/view?id=143)|[C++11](./solutions/143.小米兔洗澡澡/main.cpp)
-
 |145|[大胃王的烦恼](https://code.mi.com/problem/list/view?id=145)|[C++11](./solutions/145.大胃王的烦恼/main.cpp)
