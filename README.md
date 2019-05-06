@@ -105,3 +105,4 @@ xiaomiOJ
 |142|[数学等式](https://code.mi.com/problem/list/view?id=142)|[C++11](./solutions/142.数学等式/main.cpp)
 |143|[小米兔洗澡澡](https://code.mi.com/problem/list/view?id=143)|[C++11](./solutions/143.小米兔洗澡澡/main.cpp)
 |145|[大胃王的烦恼](https://code.mi.com/problem/list/view?id=145)|[C++11](./solutions/145.大胃王的烦恼/main.cpp)
+|128|[不一样的排序](https://code.mi.com/problem/list/view?id=128)|[C++11](./solutions/128.不一样的排序/main.cpp)
